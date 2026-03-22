@@ -48,7 +48,7 @@ Designed and contributed to a real-time multiplayer system with chat filtering a
 
 ## 📫 Connect
 
-* LinkedIn: *(add your link)*
-* Email: *(optional)*
+* LinkedIn: *https://www.linkedin.com/in/hatem-chehade/*
+* Email: *hatem.business2006@gmail.com*
 
 ---
