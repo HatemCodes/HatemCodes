@@ -20,7 +20,7 @@ Prototype web app that analyzes political and news language using explainable he
 
 ### 🔐 SecurePass — Encrypted Password Vault
 
-*(add repo later)*
+👉 https://github.com/HatemCodes/securepass-password-vault
 
 Flask-based web application implementing RSA encryption, SHA-256 hashing, and secure credential storage.
 
@@ -30,7 +30,7 @@ Flask-based web application implementing RSA encryption, SHA-256 hashing, and se
 
 ### 🎮 OMGame — Multiplayer Board Game Platform
 
-*(add repo later)*
+👉 https://github.com/HatemCodes/omgame-multiplayer-platform
 
 Designed and contributed to a real-time multiplayer system with chat filtering and user interaction features.
 
