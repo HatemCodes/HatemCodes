@@ -16,7 +16,11 @@ Prototype web app that analyzes political and news language using explainable he
 **Tech:** React, NLP concepts, System Design
 
 ---
+### Personal Fitness Website
 
+ 👉 https://hatemfit.vercel.app/
+
+  A fitness system for people who want structure, consistency, and purpose. Built because of my passion for fitness.
 
 ### 🔐 SecurePass — Encrypted Password Vault
 
